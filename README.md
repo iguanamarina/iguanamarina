@@ -9,9 +9,19 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 - :e-mail: You can reach me at: juanantonio.arias.lopez@usc.es
 - :information_source: Further info and full CV at my [personal webpage and portfolio](https://messy-dataset.xyz) or my :mortar_board: [LinkedIn](https://www.linkedin.com/in/juanariasbio/) profile. 
     
+---
 
 <!--START_SECTION:activity-->
-      
+
+---
+
+### :zap: Recent Activity
+
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+---
+
+
      
 
 
