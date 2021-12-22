@@ -23,6 +23,9 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 
 ---
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=iguanamarina&show_icons=true&count_private=true&theme=dracula&hide=stars,issues)
+
+
 
      
 
