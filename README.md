@@ -11,8 +11,6 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
     
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
       
      
 
