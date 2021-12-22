@@ -12,16 +12,12 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 - :radio: I am co-host of a **[science & comedy podcast](https://rss.com/podcasts/idus/)**.
 - :e-mail: You can reach me at: juanantonio.arias.lopez@usc.es
 - :information_source: Further info and full CV at my [personal webpage and portfolio](https://messy-dataset.xyz).
-    
----
-
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
 ---
 
 ### :zap: Recent Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--START_SECTION:activity-->
 
 ---
 
