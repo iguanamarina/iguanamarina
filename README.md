@@ -18,6 +18,8 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/iguanamarina/iguanamarina/pull/1) in [iguanamarina/iguanamarina](https://github.com/iguanamarina/iguanamarina)
+<!--END_SECTION:activity-->
 
 ---
 
