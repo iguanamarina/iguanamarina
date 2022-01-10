@@ -23,10 +23,20 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 
 ---
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=iguanamarina&show_icons=true&count_private=true&theme=dracula&hide=stars,issues)
+### :computer: Recent Posts
 
+- [These are Andrew's advices](https://messy-dataset.xyz/post/these-are-andrew-s-advices/)
+- [Introducing GAM models for neuroimage data analysis](https://messy-dataset.xyz/post/gams_neuro/gam-models-for-neuroscience-code-101/)
 
+---
 
-     
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iguanamarina&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguanamarina&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
 
-
+ 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div> 
