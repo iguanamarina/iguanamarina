@@ -9,6 +9,7 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 - :scroll: Academic background: Biology B.Sc. :four_leaf_clover:, Clinical Neurosciences M.Sc. 🧠 & Statistical Techniques M.Sc. :bar_chart:
 - :computer: My coding interests include **R**, **Matlab**, **Phyton**, and **LaTeX**.
 - :notebook: I am currently writing an article on **[Functional Data Analysis for Neuroimaging](https://arxiv.org/abs/2102.02908)**.
+- :notebook: I am also working on a research project on the influence of environmental variables on health outcomes for UCI patients.
 - :radio: I am co-host of a **[science & comedy podcast](https://linktr.ee/idus_podcast)**.
 - :e-mail: You can reach me at: juanantonio.arias.lopez@usc.es
 - :information_source: Further info and full CV at my [personal webpage and portfolio](https://messy-dataset.xyz).
