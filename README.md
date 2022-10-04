@@ -16,10 +16,6 @@ I am a researcher in Computational Neuroscience working at [GRID-BDS](https://gr
 
 ---
 
-<p align="center">
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguanamarina&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-
  
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
