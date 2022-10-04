@@ -7,7 +7,7 @@
 I am a researcher in Computational Neuroscience working at [GRID-BDS](https://grid-usc.com/equipo) while developing my doctoral thesis in biostatistics applied to the diagnosis of neurodegenerative diseases. Previously, I worked as research assistant to Prof. Andrew Kemp at [Swansea University](https://genialscience.org.uk).
 
 - :scroll: Academic background: Biology B.Sc. :four_leaf_clover:, Clinical Neurosciences M.Sc. 🧠 & Statistical Techniques M.Sc. :bar_chart:
-- :computer: My coding interests include **R**, **Matlab**, **Phyton**, and **LaTeX**.
+- :computer: My coding interests include **R**, **Phyton**, and **LaTeX**.
 - :notebook: I am currently writing an article on **[Functional Data Analysis for Neuroimaging](https://arxiv.org/abs/2102.02908)**.
 - :notebook: I am also working on a research project on the influence of environmental variables on health outcomes for UCI patients.
 - :radio: I am co-host of a **[science & comedy podcast](https://linktr.ee/idus_podcast)**.
