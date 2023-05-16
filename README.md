@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DatasetMessy)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/juanariasbio/)
 
-I am a researcher in Computational Neuroscience working at [GRID-BDS](https://grid-usc.com/equipo) while developing my doctoral thesis in biostatistics applied to the diagnosis of neurodegenerative diseases. Previously, I worked as research assistant to Prof. Andrew Kemp at [Swansea University](https://genialscience.org.uk).
+I am a Biostatistician at [Biostatech S.L.](http://biostatech.com/nuestro-equipo/juan-arias/) and a researcher in Computational Neuroscience working at [GRID-BDS](https://grid-usc.com/equipo) while developing my doctoral thesis in biostatistics applied to the diagnosis of neurodegenerative diseases. Previously, I worked as research assistant to Prof. Andrew Kemp at [Swansea University](https://genialscience.org.uk).
 
 - :scroll: Academic background: Biology B.Sc. :four_leaf_clover:, Clinical Neurosciences M.Sc. 🧠 & Statistical Techniques M.Sc. :bar_chart:
 - :computer: My coding interests include **R**, **Phyton**, and **LaTeX**.
