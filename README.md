@@ -6,7 +6,7 @@
 
 I am a Research Intern at Porto University [ICBAS](https://sigarra.up.pt/icbas/pt/uni_geral.unidade_view?pv_unidade=39) and a researcher in Computational Neuroscience working at [GRID-BDS](https://grid-usc.com/equipo) while developing my doctoral thesis in biostatistics applied to the diagnosis of neurodegenerative diseases. Previously, I worked as research assistant to Prof. Andrew Kemp at [Swansea University](https://genialscience.org.uk).
 
-- :bar_chart: Former Biostatistician at [**Biostatech S.L.**](http://biostatech.com/), a scientific-technological company specialized in data analysis and applied statistics.
+- :bar_chart: Former Biostatistician at [**Biostatech S.L.**](http://biostatech.com/), a scientific company specialized in data analysis and applied statistics.
 - :memo: Academic background: Biology B.Sc. 🍀, Clinical Neurosciences M.Sc. 🧠 & Statistical Techniques M.Sc. 📊
 - :computer: My coding interests include **R**, **Phyton**, and **LaTeX**.
 - :notebook: I am currently writing an article on **[Functional Data Analysis for Neuroimaging](https://arxiv.org/abs/2102.02908)**.
