@@ -9,8 +9,8 @@ I am a **researcher in biostatistics** working at [GRID-BDS](https://grid-usc.co
 - :bar_chart: Former Biostatistician at [**Biostatech S.L.**](http://biostatech.com/), a scientific company specialized in data analysis and applied statistics.
 - :memo: Academic background: Biology B.Sc. 🍀, Clinical Neurosciences M.Sc. 🧠 & Statistical Techniques M.Sc. 📊
 - :computer: My coding interests include **R**, **Python**, and **LaTeX**.
-- :notebook: I am currently writing an extensive article on **[Functional Data Analysis for Neuroimaging](https://arxiv.org/abs/2102.02908)** for early diagnosis of Alzheimer's and other neurodegenerative diseases.
-- :package: I'm currently working on an **R package** that functions as a wrapper and support for my thesis: [**neuroSCC**](https://github.com/iguanamarina/neuroSCC/). Soon available at [CRAN](https://cran.r-project.org).
+- :notebook: I am currently writing an extensive article on **[Functional Data Analysis for Neuroimaging](https://arxiv.org/abs/2102.02908)** focused on Alzheimer's diagnosis.
+- :package: I'm working on an **R package** which works as a wrapper and support for my thesis: [**neuroSCC**](https://github.com/iguanamarina/neuroSCC/). Soon available at [CRAN](https://cran.r-project.org).
 - 📧 You can reach me at: juanantonio.arias.lopez@usc.es
 - 👁️ Further info and full CV at my [personal webpage and portfolio](https://juan-arias.xyz).
 
